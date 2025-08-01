@@ -40,9 +40,7 @@ CREATE TABLE SALES_SAMPLE_DATA (
     DEALSIZE VARCHAR(10)
 ); 
 ```
-```
-SELECT * FROM S;
-```
+
 
 
 
