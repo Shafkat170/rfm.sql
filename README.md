@@ -62,6 +62,20 @@ SELECT COUNT(*) FROM sample_sales_data;
 
 # Checking unique values
 
+```
+select distinct status from SALES_SAMPLE_DATA;
+```
+| STATUS     |
+|------------|
+| Shipped    |
+| Disputed   |
+| In Process |
+| Cancelled  |
+| On Hold    |
+| Resolved   |
+
+
+
 
 
 
