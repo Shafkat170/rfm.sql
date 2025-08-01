@@ -60,7 +60,7 @@ SELECT COUNT(*) FROM sample_sales_data;
 |----------|
 | 2823     |
 
-Checking unique values
+# Checking unique values
 
 
 
