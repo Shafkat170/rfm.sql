@@ -9,7 +9,8 @@ RFM segmentation involves calculating recency, frequency, and monetary scores fo
 # DATABASE SETUP
 Create a database named RFM_SALES
 
-``` CREATE DATABASE IF NOT EXISTS RFM_SALES;
+```
+CREATE DATABASE IF NOT EXISTS RFM_SALES;
 USE RFM_SALES;
 CREATE TABLE SALES_SAMPLE_DATA (
     ORDERNUMBER INT(8),
@@ -37,8 +38,8 @@ CREATE TABLE SALES_SAMPLE_DATA (
     CONTACTLASTNAME VARCHAR(16),
     CONTACTFIRSTNAME VARCHAR(16),
     DEALSIZE VARCHAR(10)
-); ```
-
+); 
+```
 
 
 
