@@ -134,6 +134,21 @@ select distinct DEALSIZE from SALES_SAMPLE_DATA;
 | Medium   |
 | Large    |
 
+```
+select distinct TERRITORY from SALES_SAMPLE_DATA;
+```
+---output---
+| TERRITORY |
+|-----------|
+| NA        |
+| EMEA      |
+| APAC      |
+| Japan     |
+
+
+
+
+
 
 
 
