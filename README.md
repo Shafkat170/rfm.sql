@@ -77,11 +77,28 @@ select distinct status from SALES_SAMPLE_DATA;
 ```
 select distinct year_id from SALES_SAMPLE_DATA;
 ```
+---OUTPUT---
 | YEAR_ID |
 |---------|
 | 2003    |
 | 2004    |
 | 2005    |
+
+```
+select distinct PRODUCTLINE from SALES_SAMPLE_DATA;
+```
+---output---
+| PRODUCTLINE        |
+|--------------------|
+| Motorcycles        |
+| Classic Cars       |
+| Trucks and Buses   |
+| Vintage Cars       |
+| Planes             |
+| Ships              |
+| Trains             |
+
+
 
 
 
