@@ -74,6 +74,16 @@ select distinct status from SALES_SAMPLE_DATA;
 | On Hold    |
 | Resolved   |
 
+```
+select distinct year_id from SALES_SAMPLE_DATA;
+```
+| YEAR_ID |
+|---------|
+| 2003    |
+| 2004    |
+| 2005    |
+
+
 
 
 
