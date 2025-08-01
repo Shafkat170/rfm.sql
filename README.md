@@ -7,3 +7,6 @@ RFM (Recency, Frequency, Monetary) segmentation is a method used by businesses t
 RFM segmentation involves calculating recency, frequency, and monetary scores for each customer and then categorizing them into segments based on these scores. The provided SQL script segments customers into different categories, such as 'Churned Customer', 'Slipping Away, Cannot Lose', 'New Customers', 'Potential Churners', 'Active', and 'Loyal'.
 
 # DATABASE SETUP
+Create a database named RFM_SALES
+
+
