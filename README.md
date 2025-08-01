@@ -56,11 +56,10 @@ SELECT * FROM SALES_SAMPLE_DATA LIMIT 5;
 SELECT COUNT(*) FROM sample_sales_data;
 ```
 ---OUTPUT---
-### 📊 Output
-
 | COUNT(*) |
 |----------|
 | 2823     |
+
 
 
 
