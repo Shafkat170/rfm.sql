@@ -98,6 +98,34 @@ select distinct PRODUCTLINE from SALES_SAMPLE_DATA;
 | Ships              |
 | Trains             |
 
+```
+select distinct COUNTRY from SALES_SAMPLE_DATA;
+```
+---output---
+| COUNTRY      |
+|--------------|
+| USA          |
+| France       |
+| Norway       |
+| Australia    |
+| Finland      |
+| Austria      |
+| UK           |
+| Spain        |
+| Sweden       |
+| Singapore    |
+| Canada       |
+| Japan        |
+| Italy        |
+| Denmark      |
+| Belgium      |
+| Philippines  |
+| Germany      |
+| Switzerland  |
+| Ireland      |
+
+
+
 
 
 
