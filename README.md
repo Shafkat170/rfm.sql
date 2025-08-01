@@ -52,6 +52,17 @@ SELECT * FROM SALES_SAMPLE_DATA LIMIT 5;
 | 10145       | 45               | 83.26     | 6                | 3746.7  | 25/8/03   | Shipped | 3      | 8         | 2003    | Motorcycles  | 95   | S10_1678     | Toys4GrownUps.com         | 6265557265    | 78934 Hillside Dr.          |                             | Pasadena     | CA    | 90003      | USA     | NA        | Young            | Julie             | Medium   |
 | 10159       | 49               | 100       | 14               | 5205.27 | 10/10/03  | Shipped | 4      | 10        | 2003    | Motorcycles  | 95   | S10_1678     | Corporate Gift Ideas Co.  | 6505551386    | 7734 Strong St.             |                             | San Francisco| CA    | 90003      | USA     | NA        | Brown            | Julie             | Medium   |
 
+```
+SELECT COUNT(*) FROM sample_sales_data;
+```
+---OUTPUT---
+### 📊 Output
+
+| COUNT(*) |
+|----------|
+| 2823     |
+
+
 
 
 
