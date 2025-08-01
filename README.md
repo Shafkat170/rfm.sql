@@ -124,6 +124,19 @@ select distinct COUNTRY from SALES_SAMPLE_DATA;
 | Switzerland  |
 | Ireland      |
 
+```
+select distinct DEALSIZE from SALES_SAMPLE_DATA;
+```
+---output---
+| DEALSIZE |
+|----------|
+| Small    |
+| Medium   |
+| Large    |
+
+
+
+
 
 
 
