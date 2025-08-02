@@ -145,7 +145,7 @@ select distinct TERRITORY from SALES_SAMPLE_DATA;
 | APAC      |
 | Japan     |
 
-# Analusis
+# Analysis
 
 
 
